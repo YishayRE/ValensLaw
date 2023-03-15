@@ -1,0 +1,46 @@
+/* You can add global styles to this file, and also import other style files */
+@import "assets/wp-includes/css/dist/block-library/style.min.css";
+@import "assets/wp-content/plugins/ajaxy-live-search/themes/common.css";
+@import "assets/wp-content/plugins/ajaxy-live-search/themes/selective.css";
+@import "assets/wp-content/plugins/ajaxy-live-search/themes/default/style.css";
+@import "assets/wp-content/themes/tsmp/assets/css/bootstrap.css";
+@import "assets/wp-content/themes/tsmp/assets/css/owl.carousel.css";
+@import "assets/wp-content/themes/tsmp/assets/css/jquery.mCustomScrollbar.css";
+@import "assets/wp-content/themes/tsmp/assets/css/main.css";
+
+#banner {
+    background-image: url("assets/alejandra.jpg");
+}
+
+@media (min-width: 1024px) {
+    #banner {
+        background-image: url(assets/team.jpg);
+    }
+}
+
+#home-careers-block {
+    background-image: url(assets/wp-content/uploads/files-util/careers-01-portrait-1.jpg);
+}
+
+@media (min-width: 1024px) {
+    #home-careers-block {
+        background-image: url(assets/wp-content/uploads/files-util/careers-01-1.jpg);
+    }
+}
+
+img.wp-smiley,
+img.emoji {
+    display: inline !important;
+    border: none !important;
+    box-shadow: none !important;
+    height: 1em !important;
+    width: 1em !important;
+    margin: 0 .07em !important;
+    vertical-align: -0.1em !important;
+    background: none !important;
+    padding: 0 !important;
+}
+
+.mt-100 {
+    margin-top: 100px !important;
+}
