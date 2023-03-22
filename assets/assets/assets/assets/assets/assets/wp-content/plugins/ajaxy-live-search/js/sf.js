@@ -22,7 +22,7 @@
           href="assets/valens_sw.png">
 
     <meta name="description"
-          content="Asesoría en impuestos, corporativa y Defensa fiscal"/>
+          content="Asesoría en impuestos, corporativa y defensa fiscal"/>
     <meta name="robots" content="index, follow"/>
     <meta name="googlebot" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"/>
     <meta name="bingbot" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"/>
@@ -31,7 +31,7 @@
     <meta property="og:type" content="website"/>
     <meta property="og:title" content="Valens law firm"/>
     <meta property="og:description"
-          content="Asesoría en impuestos, corporativa y Defensa fiscal"/>
+          content="Asesoría en impuestos, corporativa y defensa fiscal"/>
     <meta property="og:url" content="https://valenslawfirm.com/"/>
     <meta property="og:site_name" content="Valens law firm"/>
 
@@ -92,7 +92,7 @@
                             <span class="txt-block animate-1">
                                                                     <a
                                                                             href="/">
-                                      Asesoría en impuestos, corporativa y Defensa fiscal                                  </a>
+                                      Asesoría en impuestos, corporativa y defensa fiscal                                  </a>
                                                             </span>
                             <span class="txt-block fade3">
                                 	                                                                                   </span>
@@ -155,7 +155,7 @@
                     </h1>
 
                     <div class="description fadespan">
-                        <p>90% de las empresas incurren en un correcto cumplimiento de la legislación fiscal, siendo
+                        <p>90% de las empresas incurren en el cumplimiento de la legislación fiscal, siendo
                             acreedoras de multas y créditos fiscales millonarios.</p>
                     </div>
                     <!--<a href="/" class="btn fadespan">

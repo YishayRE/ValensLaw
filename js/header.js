@@ -1,9 +1,7 @@
 const header = document.querySelector('header');
 
 header.innerHTML = `
-         
         <style>
-
             #scamWarning #scamWarningWrap {
                 width: 70%;
                 background-color: #005153;
@@ -270,7 +268,7 @@ header.innerHTML = `
                                     href="routes/expertis">Nuestro expertís</a></li>
                             <li id="menu-item-350"
                                 class="menu-item menu-item-type-post_type menu-item-object-page menu-item-350"><a
-                                    href="/">Nosotros</a></li>
+                                    href="/routes/nosotros">Nosotros</a></li>
                         </ul>
                     </nav>
                 </div>
@@ -302,7 +300,7 @@ header.innerHTML = `
                                         href="/">Nosotros</a></li>
                             </ul>
                         </nav>
-                        <!--<div class="btm-links">
+                        <! --<div class="btm-links">
                             <ul id="menu-bottom-links" class="">
                                 <li id="menu-item-469"
                                     class="menu-item menu-item-type-post_type menu-item-object-page menu-item-469"><a

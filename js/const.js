@@ -1,5 +1,5 @@
 const url = (window.location.hostname.includes('localhost')) ?
-    'http://localhost:63342/public/' :
+    'http://localhost:63342/ValensLaw/' :
     'https://valenslawfirm.com/'
 
 if (location) {
