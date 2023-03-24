@@ -75,3 +75,6 @@ node_modules/
 #Firebase cli
 .firebaserc
 firebase.json
+
+#Archivs Mac
+.DS_Store
