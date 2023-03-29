@@ -145,6 +145,7 @@ input:focus {
 
 .icon-play-btn:before {
   content: "\e900";
+  font-weight: bolder !important;
 }
 
 .icon-sound:before {
@@ -181,6 +182,10 @@ input:focus {
 
 .icon-twitter:before {
   content: "\e909";
+}
+
+.icon-youtube:before {
+  content: "\e90f";
 }
 
 .icon-top:before {

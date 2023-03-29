@@ -8,11 +8,7 @@ footer.innerHTML = `
                         <nav id="footer-nav" class="foot-menu">
                             <ul id="menu-footer-menu" class="">
                                 <li id="menu-item-465"
-                                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-465"><a
-                                        href="/">Acerca de nosotros</a></li>
-                                <li id="menu-item-466"
-                                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-466"><a
-                                        href="/">Equipo</a></li>
+                             
                                 <li id="menu-item-467"
                                     class="menu-item menu-item-type-post_type menu-item-object-page menu-item-467"><a
                                         href="/">Áreas practicas</a></li>
@@ -26,6 +22,10 @@ footer.innerHTML = `
                                     class="icon-facebook"></i></a>
                             <a href="https://www.instagram.com/valens.lawfirm/" target="_blank"><i
                                     class="icon-instagram"></i></a>
+                            <a href="https://www.instagram.com/valens.lawfirm/" target="_blank"> 
+                                <i class="icon-linkedin"></i></a>
+                            <a href="https://www.instagram.com/valens.lawfirm/" target="_blank"> 
+                                <i class="icon-play-btn"></i></a>
                         </div>
                     </div>
                 </div>
