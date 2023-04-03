@@ -26,10 +26,10 @@ header.innerHTML = `
                         <ul id="menu-primary-menu" class="">
                             <li id="menu-item-169"
                                 class="menu-item menu-item-type-post_type menu-item-object-page menu-item-169"><a
-                                    href="routes/expertis">Nuestro expertís</a></li>
+                                    href="${url}routes/expertis/">Nuestro expertís</a></li>
                             <li id="menu-item-350"
                                 class="menu-item menu-item-type-post_type menu-item-object-page menu-item-350"><a
-                                    href="/routes/nosotros">Nosotros</a></li>
+                                    href="${url}routes/nosotros/">Nosotros</a></li>
                         </ul>
                     </nav>
                 </div>
