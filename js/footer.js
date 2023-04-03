@@ -38,12 +38,13 @@ footer.innerHTML = `
                         <span class="contact-no"><i class="icon-phone"></i>5618376786</span>
                          <span class="contact-no"><i class="icon-phone"></i>contacto@valenslawfirm.com</span>
                         <address>
-                            Calz. San Antonio Abad N. 66, Tránsito, Cuauhtémoc, 06820 Ciudad de México, CDMX.
+                            Av Paseo de la Reforma 231, Col. Cuauhtemóc, Cuauhtémoc, 06500, CDMX. <br/>
+                            Av Insurgentes Sur 1458, Actipan, Benito Juárez, 03230, CDMX.<br/>
                         </address>                      
                     </div>
                     <div class="col-12 col-md-4 text-md-center">
                         <p class="copyright">
-                            &copy; 2022 Valens Law Firm | <a
+                            &copy; 2023 Valens Law Firm | <a
                                 href="/">Terms of Use</a>
                         </p>
                     </div>
