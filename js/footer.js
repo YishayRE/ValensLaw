@@ -34,12 +34,12 @@ footer.innerHTML = `
         <div class="footer-btm">
             <div class="container-fluid">
                 <div class="row align-items-end">
-                    <div class="col-12 col-md-4">
-                        <span class="contact-no"><i class="icon-phone"></i>5618376786</span>
-                         <span class="contact-no"><i class="icon-phone"></i>contacto@valenslawfirm.com</span>
+                    <div class="col-15 col-md-4">
+                         <span class="contact-no"><i class="icon-phone"></i><FONT SIZE=3> contacto@valenslawfirm.com </font></span>
                         <address>
-                            Av Paseo de la Reforma 231, Col. Cuauhtemóc, Cuauhtémoc, 06500, CDMX. <br/>
-                            Av Insurgentes Sur 1458, Actipan, Benito Juárez, 03230, CDMX.<br/>
+                            <FONT SIZE=4> Av Paseo de la Reforma 231, Col. Cuauhtemóc, Cuauhtémoc, 06500, CDMX.</font> <br/>
+                            <br/>
+                            <FONT SIZE=4> Av Insurgentes Sur 1458, Actipan, Benito Juárez, 03230, CDMX.</font> <br/>
                         </address>                      
                     </div>
                     <div class="col-12 col-md-4 text-md-center">
