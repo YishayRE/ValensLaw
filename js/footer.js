@@ -22,9 +22,9 @@ footer.innerHTML = `
                                     class="icon-facebook"></i></a>
                             <a href="https://www.instagram.com/valens.lawfirm/" target="_blank"><i
                                     class="icon-instagram"></i></a>
-                            <a href="https://www.instagram.com/valens.lawfirm/" target="_blank"> 
+                            <a href="https://www.linkedin.com/company/68068944/admin/" target="_blank"> 
                                 <i class="icon-linkedin"></i></a>
-                            <a href="https://www.instagram.com/valens.lawfirm/" target="_blank"> 
+                            <a href="https://www.youtube.com/channel/UCOAJTbGFpzcAJDMnzCPlSJQ" target="_blank"> 
                                 <i class="icon-play-btn"></i></a>
                         </div>
                     </div>
@@ -35,12 +35,12 @@ footer.innerHTML = `
             <div class="container-fluid">
                 <div class="row align-items-end">
                     <div class="col-15 col-md-4">
-                         <span class="contact-no"><i class="icon-phone"></i><FONT SIZE=3> contacto@valenslawfirm.com </font></span>
+                        
                         <address>
-                            <FONT SIZE=4> Av Paseo de la Reforma 231, Col. Cuauhtemóc, Cuauhtémoc, 06500, CDMX.</font> <br/>
-                            <br/>
-                            <FONT SIZE=4> Av Insurgentes Sur 1458, Actipan, Benito Juárez, 03230, CDMX.</font> <br/>
-                        </address>                      
+                            <FONT SIZE=5> Av Paseo de la Reforma 231, Col. Cuauhtemóc, Cuauhtémoc, 06500, CDMX.</font> <br/>
+                    <br/>
+                        </address>     
+                         <span class="contact-no"><i class="icon-phone"></i><FONT SIZE=5> contacto@valenslawfirm.com </font></span>                 
                     </div>
                     <div class="col-12 col-md-4 text-md-center">
                         <p class="copyright">

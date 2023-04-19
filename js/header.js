@@ -55,10 +55,10 @@ header.innerHTML = `
                             <ul id="menu-secondary-menu" class="">
                                 <li id="menu-item-348"
                                     class="menu-item menu-item-type-post_type menu-item-object-page menu-item-348"><a
-                                        href="routes/expertis">Nuestro expertís</a></li>
+                                       href="${url}routes/expertis/">Nuestro expertís</a></li>
                                 <li id="menu-item-345"
                                     class="menu-item menu-item-type-post_type menu-item-object-page menu-item-345"><a
-                                        href="/">Nosotros</a></li>
+                                          href="${url}routes/nosotros/">Nosotros</a></li>
                             </ul>
                         </nav>
                       
